@@ -8,7 +8,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shamanthss.shamanthss&style=flat-square&color=0088cc)
 
-I'm a undergrad student pursuing BCA 🎓 from REVA University 🏛. I'm currently into the domain of Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I absolutely love to explore new Technologies and leverage them to solve problems or maybe create problem ✨. Apart from that I also love to teach and mentor newbies 👨🏻‍💻.
+I'm a undergrad student pursuing BCA 🎓 from REVA University 🏛.
+I'm currently into the domain of Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I absolutely love to explore new Technologies and leverage them to solve problems or maybe create one ✨. Apart from that I also love to teach and mentor newbies stepping into the domain of Cybersecurity 👨🏻‍💻.
 
 Joined Github **5** years ago, but really didnt focus much here.
 
