@@ -53,7 +53,7 @@ Joined Github **5** years ago, but really didn't focus much here.
 
   <br />
   
-  ![alt-text-1](https://github-readme-stats.vercel.app/api?username=shamanthss&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true "title-1") ![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthss&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8 "title-2")
+![alt-text-1](https://github-readme-stats.vercel.app/api?username=shamanthss&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true "title-1")![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthss&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8 "title-2")
   
   <summary><b>☄️ Github Streaks</b></summary>
 
