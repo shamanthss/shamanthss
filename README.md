@@ -1,4 +1,4 @@
-## Hey👋, I'm [Shamanth S!](https://github.com/shamanthss/)
+## Hey👋, I'm [Shamanth S](https://github.com/shamanthss/)!
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/shamanthss)
