@@ -94,15 +94,7 @@ Joined Github **5** years ago, but really didn't focus much here.
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sodafoundation/delfin?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/sodafoundation/delfin?style=flat-square"/></td> 
       </tr>
-      <tr>
-	<td><a href="https://github.com/reva-csa-cybersecclub/reva-csa-cybersecclub.github.io"><b>CSA Cybersecurity Club</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/reva-csa-cybersecclub/reva-csa-cybersecclub.github.io?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/reva-csa-cybersecclub/reva-csa-cybersecclub.github.io?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/reva-csa-cybersecclub/reva-csa-cybersecclub.github.io?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/reva-csa-cybersecclub/reva-csa-cybersecclub.github.io?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/reva-csa-cybersecclub/reva-csa-cybersecclub.github.io?style=flat-square"/></td> 
-      </tr>
-    </tbody>
+   </tbody>
   </table>
   <br />
 </details>
