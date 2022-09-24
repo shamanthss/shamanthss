@@ -33,17 +33,26 @@ Joined Github **5** years ago, but really didn't focus much here.
 
 <br>
 
-### Languages and Tools:
+#### Languages
 
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/c.svg" alt="c"></code>
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/cpp.svg" alt="cpp"></code>
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/py.svg" alt="python"></code>
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/html5.svg" alt="html5"></code>
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/css.svg" alt="css"></code>
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/linux.svg" alt="linux"></code>
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/aws.svg" alt="aws"></code>
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/github.svg" alt="github"></code>
-<code><img height="30" src="https://github.com/shamanthss/shamanthss/blob/main/img/devicon/ps.svg" alt="ps"></code>
+![C](https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Tools
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)&nbsp;
 
 <br>
 
