@@ -14,7 +14,7 @@ Joined Github **5** years ago, but really didn't focus much here.
 
 <br>
 
-<img align="right" height="250" width="450" alt="" src="https://github.com/shamanthss/shamanthss/blob/main/img/hackur.gif"/>
+<img align="right" height="225" width="425" alt="" src="https://github.com/shamanthss/shamanthss/blob/main/img/hackur.gif"/>
 
 ### Talking about Personal Stuffs:
 
