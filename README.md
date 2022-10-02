@@ -19,7 +19,7 @@ Joined Github **5** years ago, but really didn't focus much here.
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on Cybersecurity related Projects and Tools.
-- 🚀 &nbsp; My setup includes a 1920s Warmachine, My PC.
+- 🚀 &nbsp; My setup is a 1920s Warmachine, My PC.
 - 👾 &nbsp; Fun fact: 1 + 1 = 11
 - 📫 &nbsp; How to reach me: shamanthsamadeshi@gmail.com.
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/shamanthss/shamanthss/blob/master/resume.pdf) #add resume later-->
@@ -28,8 +28,8 @@ Joined Github **5** years ago, but really didn't focus much here.
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech, building cool stuffs and breaking it.
-- 📰 &nbsp; Reading & writing Tech blogs and whitepaper.
-- 🍕 &nbsp; Attending and Organising Hackathons, CTFs & Workshop.
+- 📰 &nbsp; Reading, writing tech blogs and whitepaper.
+- 🍕 &nbsp; Attending and organising Hackathons, CTFs & Workshops realated to Cybersecurity.
 
 <br>
 
