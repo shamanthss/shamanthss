@@ -80,7 +80,12 @@ Joined Github **5** years ago, but really didn't focus much here.
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamanthss&hide_border=true" />
   
-  <br>
+  
+  <summary><b>🔰 Holopin Board</b></summary>
+  <br />
+  
+  [![@shamanthss's Holopin board](https://holopin.io/api/user/board?user=shamanthss)](https://holopin.io/@shamanthss)
+  
 
   <summary><b>🚀 Open Source Projects</b></summary>
 
