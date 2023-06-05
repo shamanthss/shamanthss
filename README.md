@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shamanthss)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamanthss/)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=for-the-badge&label=Profile+Views)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=flat-square&label=Profile+Views)
 
 I'm a undergrad student pursuing BCA 🎓<br>
 I'm currently into the domain of Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains.<br>I absolutely love to explore new Technologies and leverage them to solve problems or maybe create one ✨. Apart from that I also love to teach and mentor newbies stepping into the domain of Cybersecurity 👨🏻‍💻.
