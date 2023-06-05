@@ -8,7 +8,7 @@
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=flat-square&label=Profile+Views)
 
 I'm a undergrad student pursuing BCA 🎓<br>
-I'm currently into the domain of Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains.<br>I absolutely love to explore new Technologies and leverage them to solve problems or maybe create one ✨. Apart from that I also love to teach and mentor newbies stepping into the domain of Cybersecurity 👨🏻‍💻.
+I'm currently into the domain of Cybersecurity. I'm a passionate learner who is always willing to learn and work across technologies and domains.<br>I absolutely love to explore new Technologies and leverage them to solve problems or maybe create one ✨. Apart from that I also love to teach and mentor newbies stepping into the domain of Cybersecurity 👨🏻‍💻.
 
 Joined Github **5** years ago, but really didn't focus much here.
 
@@ -33,7 +33,7 @@ Joined Github **5** years ago, but really didn't focus much here.
 
 <br>
 
-#### Languages
+### Languages
 
 ![C](https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
@@ -44,20 +44,20 @@ Joined Github **5** years ago, but really didn't focus much here.
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
-#### Database
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Orcale](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Tools
+### Tools
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)&nbsp;
 
-#### IDEs
+### IDEs
 
 ![Sublime](https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
@@ -67,7 +67,7 @@ Joined Github **5** years ago, but really didn't focus much here.
 
 <br>
 
-### Projects and Dev Stuffs:
+### Projects and Dev Stuff:
 
   <summary><b>⚡ Github Stats</b></summary>
 
