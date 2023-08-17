@@ -1,15 +1,9 @@
 ## Hey👋, I'm [Shamanth S](https://github.com/shamanthss/)!
-<br>
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shamanthss)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamanthss/)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=flat-square&label=Profile+Views)
 
 I'm a undergrad student pursuing BCA 🎓<br>
 I'm currently into the domain of Cybersecurity. I'm a passionate learner who is always willing to learn and work across technologies and domains.<br>I absolutely love to explore new Technologies and leverage them to solve problems or maybe create one ✨. Apart from that I also love to teach and mentor newbies stepping into the domain of Cybersecurity 👨🏻‍💻.
-
-Joined Github **5** years ago, but really didn't focus much here.
 
 <br>
 
@@ -34,12 +28,15 @@ Joined Github **5** years ago, but really didn't focus much here.
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
@@ -47,22 +44,48 @@ Joined Github **5** years ago, but really didn't focus much here.
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Orcale](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### Tools
 
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)&nbsp;
+![Burpsuite](https://img.shields.io/badge/burpsuite-ff9f00?style=for-the-badge&logoColor=white)&nbsp;
+![Metasploit](https://img.shields.io/badge/Metasploit-0b5394?style=for-the-badge&logoColor=white)&nbsp;
+![Nmap](https://img.shields.io/badge/nmap-9fc5e8?style=for-the-badge&logoColor=white)&nbsp;
+![Wireshark](https://img.shields.io/badge/wireshark-0092ff?style=for-the-badge&logoColor=white)&nbsp;
+![Nessus](https://img.shields.io/badge/nessus-999999?style=for-the-badge&logoColor=white)&nbsp;
+![Autopsy](https://img.shields.io/badge/Autopsy%20Forensics-1DBF73?style=for-the-badge&logoColor=white)&nbsp;
+![sqlmap](https://img.shields.io/badge/SQLmap-f1c232?style=for-the-badge&logoColor=white)&nbsp;
+![Nikto](https://img.shields.io/badge/nikto-cc0000?style=for-the-badge&logoColor=white)&nbsp;
+![Nessus](https://img.shields.io/badge/Aircrack--ng-e5a94b?style=for-the-badge&logoColor=white)&nbsp;
+![Nessus](https://img.shields.io/badge/Maltego-8e7cc3?style=for-the-badge&logoColor=white)&nbsp;
+![dirb](https://img.shields.io/badge/DirBuster-999999?style=for-the-badge&logoColor=white)&nbsp;
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
 ### IDEs
 
 ![Sublime](https://img.shields.io/badge/sublime-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
+
+### OS
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)&nbsp;
+![Kali](https://img.shields.io/badge/Kali_Linux-2793D6?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
+![TailsOS](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+ 
 
 <br>
 
@@ -72,12 +95,12 @@ Joined Github **5** years ago, but really didn't focus much here.
 
   <br />
   
-![alt-text-1](https://github-readme-stats.vercel.app/api?username=shamanthss&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true "title-1")![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthss&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8 "title-2")
+![alt-text-1](https://github-readme-stats.vercel.app/api?username=shamanthss&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true%20%22title-2&theme=dark)![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthss&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark)
   
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamanthss&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamanthss&hide_border=true&theme=dark" />
   
   
   <summary><b>🔰 Holopin Board</b></summary>
@@ -113,3 +136,6 @@ Joined Github **5** years ago, but really didn't focus much here.
   </table>
   <br />
 </details>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shamanthss)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamanthss/)
