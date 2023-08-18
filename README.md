@@ -139,3 +139,6 @@ I'm currently into the domain of Cybersecurity. I'm a passionate learner who is 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shamanthss)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamanthss/)
+
+<br>
+<img align="center" alt="graph" src="https://github.com/shamanthss/shamanthss/blob/main/img/snake.svg"/>
