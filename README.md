@@ -2,8 +2,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=flat-square&label=Profile+Views)
 
-I'm a undergrad student pursuing BCA 🎓<br>
-I'm currently into the domain of Cybersecurity. I'm a passionate learner who is always willing to learn and work across technologies and domains.<br>I absolutely love to explore new Technologies and leverage them to solve problems or maybe create one ✨. Apart from that I also love to teach and mentor newbies stepping into the domain of Cybersecurity 👨🏻‍💻.
+I'm an undergraduate student currently pursuing a Bachelor's in Computer Applications (BCA) 🎓,<br> with a strong passion for the dynamic world of Cybersecurity. As a dedicated learner, I thrive on constantly expanding my knowledge and skillset, always eager to venture into new technologies and domains.
+
+My journey in the field of Cybersecurity is not just a career choice; it's a thrilling adventure. I enjoy embracing cutting-edge technologies and using them to craft innovative solution for an intricate problem ✨.<br>
+The ever-evolving nature of this field keeps me engaged and motivated.
+
+In addition to my personal growth, I have a genuine enthusiasm for sharing my expertise and mentoring newcomers in the exciting realm of Cybersecurity 👨🏻‍💻.
 
 <br>
 
