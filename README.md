@@ -1,8 +1,9 @@
-## Hey👋, I'm [Shamanth S](https://github.com/shamanthss/)!
+## Hey👋, I'm [Shamanth S](https://shamanthss.me/)!, your friendly neighborhood Hackerman
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=flat-square&label=Profile+Views)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=for-the-badge&label=vistor)
 
-I'm an undergraduate student currently pursuing a Bachelor's in Computer Applications (BCA) 🎓,<br> with a strong passion for the dynamic world of Cybersecurity. As a dedicated learner, I thrive on constantly expanding my knowledge and skillset, always eager to venture into new technologies and domains.
+I'm an undergrad pursuing a Bachelor's in Computer Applications (BCA) 🎓, with a strong passion for the dynamic world of Cybersecurity.<br>
+As a dedicated learner, I thrive on constantly expanding my knowledge and skillset, always eager to venture into new technologies and domains.
 
 My journey in the field of Cybersecurity is not just a career choice; it's a thrilling adventure. I enjoy embracing cutting-edge technologies and using them to craft innovative solution for an intricate problem ✨.<br>
 The ever-evolving nature of this field keeps me engaged and motivated.
@@ -15,17 +16,17 @@ In addition to my personal growth, I have a genuine enthusiasm for sharing my ex
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Cybersecurity related Projects and Tools.
-- 🚀 &nbsp; My setup is a 1920s Warmachine, My PC.
+- 🛠 &nbsp; I’m currently working on OffSec related Projects and Tools.
+- 🚀 &nbsp; Cybersecurity Intern, exploring Offensive and Cyber Threat Intelligence.
 - 👾 &nbsp; Fun fact: 1 + 1 = 11
-- 📫 &nbsp; How to reach me: shamanthsamadeshi@gmail.com.
+- 📫 &nbsp; Reach me on: shamanthsamadeshi@gmail.com.
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/shamanthss/shamanthss/blob/master/resume.pdf) #add resume later-->
 <br>
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech, building cool stuffs and breaking it.
-- 📰 &nbsp; Reading, writing tech blogs and whitepaper.
+- 💻 &nbsp; I have a passion for delving into the latest technological innovations, constructing exciting projects, and pushing the boundaries by challenging and deconstructing them.
+- 📰 &nbsp; Reading and Writing Tech Blogs, and Whitepaper.
 - 🍕 &nbsp; Attending and organising Hackathons, CTFs & Workshops realated to Cybersecurity.
 
 <br>
@@ -33,7 +34,8 @@ In addition to my personal growth, I have a genuine enthusiasm for sharing my ex
 ### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00799C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-00999C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -48,7 +50,7 @@ In addition to my personal growth, I have a genuine enthusiasm for sharing my ex
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Orcale](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### Tools
@@ -72,6 +74,7 @@ In addition to my personal growth, I have a genuine enthusiasm for sharing my ex
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
 ### IDEs
@@ -133,7 +136,7 @@ In addition to my personal growth, I have a genuine enthusiasm for sharing my ex
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/sodafoundation/delfin"><b>Sodafoundation</b></a></td>
+	<td><a href="https://github.com/sodafoundation/delfin"><b>Soda Foundation</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/sodafoundation/delfin?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/sodafoundation/delfin?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/sodafoundation/delfin?style=flat-square"/></td>
@@ -146,5 +149,5 @@ In addition to my personal growth, I have a genuine enthusiasm for sharing my ex
 </details>
 
 ### Get in touch
-<br>[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shamanthss)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shamanthss)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamanthss/)
