@@ -1,4 +1,4 @@
-## Hey👋, I'm [Shamanth S](https://shamanthss.me/)!, your friendly neighborhood Hackerman
+## Hey👋, I'm [Shamanth S](https://shamanthss.me/), your friendly neighborhood Hackerman
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=for-the-badge&label=vistor)
 
