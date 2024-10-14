@@ -2,13 +2,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=shamanthss&style=for-the-badge&label=vistor)
 
-I'm an undergrad pursuing a Bachelor's in Computer Applications (BCA) 🎓, with a strong passion for the dynamic world of Cybersecurity.<br>
-As a dedicated learner, I thrive on constantly expanding my knowledge and skillset, always eager to venture into new technologies and domains.
+Currently pursuing Master in Computer Applications (MCA) with a specialization in Cybersecurity, driven by a passion for this ever-evolving field. To me, Cybersecurity isn’t just a career—it’s an adventure where I explore cutting-edge technologies, solve complex problems, and craft innovative solutions.
 
-My journey in the field of Cybersecurity is not just a career choice; it's a thrilling adventure. I enjoy embracing cutting-edge technologies and using them to craft innovative solution for an intricate problem ✨.<br>
-The ever-evolving nature of this field keeps me engaged and motivated.
+What excites me most is that there’s never a dull moment. There’s always something new to learn—whether it’s the latest vulnerability, an emerging threat, or an unfamiliar tool that pushes me out of my comfort zone. It’s this constant change that keeps me motivated.
 
-In addition to my personal growth, I have a genuine enthusiasm for sharing my expertise and mentoring newcomers in the exciting realm of Cybersecurity 👨🏻‍💻.
+I’m also passionate about giving back to the community. Whether it’s mentoring newcomers, sharing insights, or just exchanging ideas with fellow security enthusiasts, I believe we grow stronger by learning from each other. Seeing someone else’s spark ignite through something I taught—that’s a whole different kind of reward.
+
+In the end, I’m all about embracing new challenges, breaking barriers, and making a difference—one solution at a time. And I can’t wait to see where this journey takes me next. 🚀
 
 <br>
 
@@ -17,7 +17,7 @@ In addition to my personal growth, I have a genuine enthusiasm for sharing my ex
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on OffSec related Projects and Tools.
-- 🚀 &nbsp; Cybersecurity Intern, exploring Offensive and Cyber Threat Intelligence.
+- 🚀 &nbsp; Cybersecurity Analyst, exploring Offensive and Cyber Threat Intelligence.
 - 👾 &nbsp; Fun fact: 1 + 1 = 11
 - 📫 &nbsp; Reach me on: shamanthsamadeshi@gmail.com.
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/shamanthss/shamanthss/blob/master/resume.pdf) #add resume later-->
@@ -27,7 +27,7 @@ In addition to my personal growth, I have a genuine enthusiasm for sharing my ex
 
 - 💻 &nbsp; I have a passion for delving into the latest technological innovations, constructing exciting projects, and pushing the boundaries by challenging and deconstructing them.
 - 📰 &nbsp; Reading and Writing Tech Blogs, and Whitepaper.
-- 🍕 &nbsp; Attending and organising Hackathons, CTFs & Workshops realated to Cybersecurity.
+- 🍕 &nbsp; Attending and organising Hackathons, CTFs & Workshops related to Cybersecurity.
 
 <br>
 
